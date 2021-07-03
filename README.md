@@ -1,4 +1,4 @@
-### Hi there 👋
+<center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jumining)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,6 +8,7 @@
 
 ### 🐣 Me 🐣
 <a href="https://www.instagram.com/juminining/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juminining/"/></a>
+</center>
 
 
 <!--
