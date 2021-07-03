@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jumining)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/C++-11B48A?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C++-11B48A?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <!--
 **jumining/jumining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
