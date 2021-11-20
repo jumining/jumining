@@ -1,6 +1,6 @@
 
   
-
+![snake gif](https://github.com/jumining/jumining/blob/output/github-contribution-grid-snake.svg)
 
 
   
