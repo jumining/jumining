@@ -3,7 +3,9 @@
 ![snake gif](https://github.com/jumining/jumining/blob/output/github-contribution-grid-snake.svg)
 
 
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumining&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumining&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 　　　　　　　　　　　　　　　　　　
 
@@ -11,9 +13,7 @@
 <a href="https://www.instagram.com/juminining/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juminining/"/></a>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jumining)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumining&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### 📚 Techs 📚         　　　　　　　　　　　 　　　　　　　　　              
