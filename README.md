@@ -5,8 +5,14 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumining&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumining&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📚 Techs 📚         　　　　　　　　　　　 　　　　　　　　　              
+<img src="https://img.shields.io/badge/C++-1AB7EA?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> 　　
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 　　　　　　　　　　　　　　　　　　
 
 ### 🐣 Me 🐣
@@ -16,8 +22,9 @@
 
 
 <!--
-### 📚 Techs 📚         　　　　　　　　　　　 　　　　　　　　　              
-<img src="https://img.shields.io/badge/C++-1AB7EA?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-028396?style=flat-square&logo=Java&logoColor=white"/>　　
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumining&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
