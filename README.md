@@ -12,7 +12,7 @@
 　　　　　　　　　　　　　　　　　　
 
 ### 🐣 Me 🐣
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juminining/"/> <img src="https://img.shields.io/badge/Tistory-648B1A?style=flat-square&logoColor=white&link=https://jumining.tistory.com/category">
+<a href="https://www.instagram.com/juminining/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juminining/"/></a> <a href="https://jumining.tistory.com/category"> <img src="https://img.shields.io/badge/Tistory-648B1A?style=flat-square&logoColor=white&link=https://jumining.tistory.com/category"></a>
 
 
 
