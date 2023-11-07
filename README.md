@@ -6,16 +6,6 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumining&show_icons=true&theme=dracula)
 
 
-### 📚 Techs 📚         　　　　　　　　　　　 　　　　　　　　　              
-<img src="https://img.shields.io/badge/C++-1AB7EA?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-
-　　　　　　　　　　　　　　　　　　
-
-### 🐣 Me 🐣
-<a href="https://www.instagram.com/juminining/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juminining/"/></a> <a href="https://jumining.tistory.com/category"> <img src="https://img.shields.io/badge/Tistory-648B1A?style=flat-square&logoColor=white&link=https://jumining.tistory.com/category"></a>
-
-
-
 
 <!--
 
