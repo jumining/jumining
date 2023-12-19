@@ -1,7 +1,7 @@
 
   
-![snake gif](https://github.com/jumining/jumining/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://github.com/jumining/jumining/blob/output/github-contribution-grid-snake.svg"/>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumining&show_icons=true&theme=dracula)
 
