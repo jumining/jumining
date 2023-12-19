@@ -1,5 +1,4 @@
-
-  
+<img src="https://github.com/jumining/jumining/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jumining&show_icons=true&theme=dracula)
